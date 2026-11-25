@@ -5,7 +5,7 @@
   "premium_deneme_gun": 14,
   "premium_gunluk_hak": 10,
   "duyuru_mesaji": "Nohud AI 7 günlük ücretsiz kullanım hakkınız yenilendi!",
-  "duyuru_sadece_yenilenenlere": true
+  "duyuru_sadece_yenilenenlere": true,
   "paywall_kampanya_basligi": "Öğrenci Dostu Lansman Fiyatı",
   "premium_deneme_aciklama": "Kart bilgisi gerekmez, 14 gün boyunca tüm özellikler ve günde 10 AI hakkı ücretsiz açık",
   "yillik_indirim_rozeti": "%50 İndirim",
@@ -14,5 +14,4 @@
   "aylik_aciklama": "İstediğin zaman tek tıkla iptal et",
   "yillik_aciklama": "Tüm sınav ve okul dönemi boyunca kesintisiz erişim",
   "paywall_alt_aciklama": "Aboneliğini Google Play üzerinden dilediğin an iptal edebilirsin."
-}
 }
